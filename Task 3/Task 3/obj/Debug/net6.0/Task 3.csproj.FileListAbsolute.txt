@@ -1,0 +1,15 @@
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\bin\Debug\net6.0\Task 3.exe
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\bin\Debug\net6.0\Task 3.deps.json
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\bin\Debug\net6.0\Task 3.runtimeconfig.json
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\bin\Debug\net6.0\Task 3.dll
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\bin\Debug\net6.0\ref\Task 3.dll
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\bin\Debug\net6.0\Task 3.pdb
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\obj\Debug\net6.0\Task 3.csproj.AssemblyReference.cache
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\obj\Debug\net6.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\obj\Debug\net6.0\Task 3.AssemblyInfoInputs.cache
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\obj\Debug\net6.0\Task 3.AssemblyInfo.cs
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\obj\Debug\net6.0\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\obj\Debug\net6.0\Task 3.dll
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\obj\Debug\net6.0\ref\Task 3.dll
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\obj\Debug\net6.0\Task 3.pdb
+C:\Users\Marita\Desktop\Labs C#\Homework 1\Task 3\Task 3\obj\Debug\net6.0\Task 3.genruntimeconfig.cache
